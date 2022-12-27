@@ -1,0 +1,3 @@
+this is cool input file that will be ciphered!
+
+also it is a multiline one...
